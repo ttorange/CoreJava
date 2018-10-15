@@ -2,6 +2,15 @@
 import java.util.Date;
 import java.util.GregorianCalendar;
 
+/*
+ * 类的设计技巧：
+ *     1保证数据私有
+ *     2要对数据进行初始化（提供默认值）
+ *     3不要在类中使用过多基本类型（比如将Customer类中的street，city数据打包成一个Address类）
+ *     4不是所有的域都要独立的域访问器和更改器
+ *     5将职责过多的类进行分解（低耦合，把一个类细分成多个类，不要把一个类做得太庞大）
+ *     6类名和方法名要能体现它的职责 
+ */
 public class Employee {
 	private static int nextId=1;//静态常量
 	private int id;
