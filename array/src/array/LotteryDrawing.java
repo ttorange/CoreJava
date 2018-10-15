@@ -2,7 +2,13 @@ package array;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+/*
+ * 数组
+ *    数组的初始化
+ *    遍历  for each 
+ *    数组排序Arrays.sort(array)
+ *    多维数组，不规则数组
+ */
 public class LotteryDrawing {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
