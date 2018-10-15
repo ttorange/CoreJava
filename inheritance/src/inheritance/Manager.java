@@ -28,5 +28,18 @@ public class Manager extends Employee{
 	public void setBonus(double b) {
 		bonus=b;
 	}
+	//子类equals方法先调用超类的equals，如果false。一定不相等，若成功然后检测子类中的实例域
+	public boolean equals(Object otherObject) {
+		if(!super.equals(otherObject))return false;
+		Manager other=(Manager)otherObject;
+		return bonus==other.bonus;
+	}
+	//重新定义了equals方法就必须重新定义hashCode方法以便用户可以将对象插到散列表中
+	public int hashCode() {
+		return super.hashCode()+17*new Double(bonus).hashCode();	
+		}
+	public String toString() {
+		return super.toString()+"[bonus="+bonus+"]";
+		}
 
 }
