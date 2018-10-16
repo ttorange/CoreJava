@@ -1,0 +1,45 @@
+java基本程序设计结构
+ 基本数据类型：
+    8种，4种整形，2种浮点，char,boolean
+ 变量：
+    需要初始化，常量用final指示（public static final int LOVE=10000）不可更改，用大写，类的常量定义在main方法外部
+ 运算符：
+    ++n与n++：  在表达式中++n先+1再运算，n++使用变量原来的值后再+1
+    condition ? expression1 : expression  表示condition为真时计算第一个表达式否则计算第二个表达式
+    >>  << 算数移位
+ 强制类型转换
+         （byte）300 实际值为44
+ 字符串
+  String不应理解为char[]
+  substring(x,y)提取x~y的字符
+  int compareTo(String other)
+  boolean equals(Object other)
+  int indexOf(String str)
+  int indexOf(String str,int fromIndex)
+  int indexOf(int cp)
+  int indexOf（int cp,intfromIndex）
+  int lastIndexOf(String str)
+  int length()
+  String toLowerCase/toUpperCase()
+  String trim()删除原始字符串头尾空格
+  
+
+  StringBuilder()字符串构建器
+  StringBuilder append(String str)追加字符串并返回this
+  String toString()
+ 格式化输入输出
+   %格式说明  $参数索引
+
+ 大数值
+  BigInteger/BigDecimal  add/subtract/multiply/divide/compareTo(BigInteger)
+  static BigInteger valueOf(long x)
+
+ for each 循环
+ for(variable:collection)statement
+ 
+ 数组
+ static String toStirng(type[] a)
+ static type copyOf(type[] a,int length)/(type[] a,int start,int end)
+        void sort(type[] a)
+        int binarySearch(type[] a,type v)
+    
