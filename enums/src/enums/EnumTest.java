@@ -2,6 +2,15 @@ package enums;
 /*
  * 枚举类
  *    变量的取值只能在有限的集合内
+ *  
+ *  
+ *  参数数量可变的方法：
+ *     一个函数可以有多个参数，但使用同一个方法，比如printf方法
+ *     public printsStream printf(String fmt,Object...args)
+ *     {
+ *     retrun format(fmt,args);
+ *     }
+ *    
  */
 import java.util.Scanner;
 
@@ -20,8 +29,9 @@ public class EnumTest {
 		Size[] value=Size.values();//返回包enum中所有元素的数组
 		for(Size v:value)
 			System.out.println(v);
+		
+		
 	}
-	
 	
 		
 }
