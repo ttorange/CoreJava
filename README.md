@@ -13,10 +13,13 @@ Core Java volume I
 >> [方法参数](https://github.com/ttorange/CoreJava/blob/master/Param/src/ParamTest.java)    
 * 继承  
 > [类，子类，超类，](https://github.com/ttorange/CoreJava/tree/master/inheritance/src/inheritance)   
+>[抽象类](https://github.com/ttorange/CoreJava/tree/master/abstractClasses/src/abstractClasses)   
 > [泛型数组列表](https://github.com/ttorange/CoreJava/blob/master/arrayList/src/arrayList/AraryListTest.java)  
 > [对象包装器与自动装箱](https://github.com/ttorange/CoreJava/blob/master/arrayList/src/arrayList/Autowrapping.java)  
 > [枚举类&参数可变方法](https://github.com/ttorange/CoreJava/blob/master/enums/src/enums/EnumTest.java)   
->[反射](https://github.com/ttorange/CoreJava/blob/master/reflection/src/reflection/ReflectionTest.java)  
+>[利用反射分析类的能力](https://github.com/ttorange/CoreJava/blob/master/reflection/src/reflection/ReflectionTest.java)  
+>[运行时利用反射分析对象](https://github.com/ttorange/CoreJava/blob/master/ObjectAnalyzer/src/ObjectAnalyzer.java)   
+
 
 
 
