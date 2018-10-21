@@ -19,6 +19,10 @@ Core Java volume I
 > [枚举类&参数可变方法](https://github.com/ttorange/CoreJava/blob/master/enums/src/enums/EnumTest.java)   
 >[利用反射分析类的能力](https://github.com/ttorange/CoreJava/blob/master/reflection/src/reflection/ReflectionTest.java)  
 >[运行时利用反射分析对象](https://github.com/ttorange/CoreJava/blob/master/ObjectAnalyzer/src/ObjectAnalyzer.java)   
+* 接口  
+>[接口](https://github.com/ttorange/CoreJava/tree/master/interfaces/src/interfaces)   
+>[对象克隆](https://github.com/ttorange/CoreJava/tree/master/Clone/src)  
+
 
 
 
