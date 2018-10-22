@@ -22,4 +22,5 @@ Core Java volume I
 * 接口  
 >[接口](https://github.com/ttorange/CoreJava/tree/master/interfaces/src/interfaces)   
 >[对象克隆](https://github.com/ttorange/CoreJava/tree/master/Clone/src)  
->[内部类](https://github.com/ttorange/CoreJava/blob/master/innerClass/src/innerClass/InnerClassTest.java)   
+>[内部类](https://github.com/ttorange/CoreJava/blob/master/innerClass/src/innerClass/InnerClassTest.java)  
+>[匿名内部类](https://github.com/ttorange/CoreJava/blob/master/anonymousInnerClass/src/anonymousInnerClass/AnnoymousInnerClassTest.java)  
