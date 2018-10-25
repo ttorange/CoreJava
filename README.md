@@ -25,8 +25,8 @@ Core Java volume I
 >[内部类](https://github.com/ttorange/CoreJava/blob/master/innerClass/src/innerClass/InnerClassTest.java)  
 >[匿名内部类](https://github.com/ttorange/CoreJava/blob/master/anonymousInnerClass/src/anonymousInnerClass/AnnoymousInnerClassTest.java)  
 >[代理](https://github.com/ttorange/CoreJava/blob/master/Proxy/src/ProxyTest.java)   
-*GUI  
+* GUI  
 >[Swing入门](https://github.com/ttorange/CoreJava/blob/master/simpleframe/src/simpleframe/SimpleFrameTest.java)   
-*异常    
+* 异常    
 >[异常](https://github.com/ttorange/CoreJava/blob/master/stackTrace/src/stackTrace/StackTraceTest.java)   
 >[日志记录](https://github.com/ttorange/CoreJava/blob/master/logging/src/logging/LoggingImageViewer.java)
