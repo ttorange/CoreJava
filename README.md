@@ -1,7 +1,12 @@
 # CoreJava  
-Core Java volume I  
+《Core Java volume I》  
+@author  Cay S.Horstmann    Gary Cornell   
+    
 该仓库实现了 《Java核心技术卷I》中的代码  
-所有代码都具有详细的注释以及心得和总结   
+所有代码都具有详细的注释以及自己的心得和总结   
+学习和练习使用   
+
+
 # **目录**<br>
 * 数组     
 > [一维数组](https://github.com/ttorange/CoreJava/blob/master/array/src/array/LotteryDrawing.java)  
@@ -24,4 +29,9 @@ Core Java volume I
 >[对象克隆](https://github.com/ttorange/CoreJava/tree/master/Clone/src)  
 >[内部类](https://github.com/ttorange/CoreJava/blob/master/innerClass/src/innerClass/InnerClassTest.java)  
 >[匿名内部类](https://github.com/ttorange/CoreJava/blob/master/anonymousInnerClass/src/anonymousInnerClass/AnnoymousInnerClassTest.java)  
->[代理](https://github.com/ttorange/CoreJava/blob/master/Proxy/src/ProxyTest.java)  
+>[代理](https://github.com/ttorange/CoreJava/blob/master/Proxy/src/ProxyTest.java)   
+* GUI  
+>[Swing入门](https://github.com/ttorange/CoreJava/blob/master/simpleframe/src/simpleframe/SimpleFrameTest.java)   
+* 异常    
+>[异常](https://github.com/ttorange/CoreJava/blob/master/stackTrace/src/stackTrace/StackTraceTest.java)   
+>[日志记录](https://github.com/ttorange/CoreJava/blob/master/logging/src/logging/LoggingImageViewer.java)
