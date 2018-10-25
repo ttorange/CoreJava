@@ -1,5 +1,5 @@
 # CoreJava  
-<<Core Java volume I>>  
+《Core Java volume I》  
 @author  Cay S.Horstmann    Gary Cornell   
     
 该仓库实现了 《Java核心技术卷I》中的代码  
