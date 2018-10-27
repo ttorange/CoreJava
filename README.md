@@ -37,4 +37,5 @@
 >[异常](https://github.com/ttorange/CoreJava/blob/master/stackTrace/src/stackTrace/StackTraceTest.java)   
 >[日志记录](https://github.com/ttorange/CoreJava/blob/master/logging/src/logging/LoggingImageViewer.java)  
 * 泛型
->[泛型](https://github.com/ttorange/CoreJava/tree/master/pair/src/pair)
+>[泛型](https://github.com/ttorange/CoreJava/tree/master/pair/src/pair)   
+>[通配符类型](https://github.com/ttorange/CoreJava/blob/master/pair2/src/pair2/PairTest2.java)
