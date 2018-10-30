@@ -38,4 +38,7 @@
 >[日志记录](https://github.com/ttorange/CoreJava/blob/master/logging/src/logging/LoggingImageViewer.java)  
 * 泛型
 >[泛型](https://github.com/ttorange/CoreJava/tree/master/pair/src/pair)   
->[通配符类型](https://github.com/ttorange/CoreJava/blob/master/pair2/src/pair2/PairTest2.java)
+>[通配符类型](https://github.com/ttorange/CoreJava/blob/master/pair2/src/pair2/PairTest2.java)  
+* 集合
+>[散列集](https://github.com/ttorange/CoreJava/blob/master/set/src/set/SetTest.java)  
+>[树](https://github.com/ttorange/CoreJava/tree/master/tereeSet/src/tereeSet)
