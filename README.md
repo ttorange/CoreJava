@@ -42,4 +42,4 @@
 * 集合
 >[散列集](https://github.com/ttorange/CoreJava/blob/master/set/src/set/SetTest.java)  
 >[树](https://github.com/ttorange/CoreJava/tree/master/tereeSet/src/tereeSet)  
->[优先级队列]
+>[优先级队列](https://github.com/ttorange/CoreJava/blob/master/priorityQueue/src/priorityQueue/PriorityQueueTest.java)
