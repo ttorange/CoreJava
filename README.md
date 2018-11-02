@@ -42,4 +42,11 @@
 * 集合
 >[散列集](https://github.com/ttorange/CoreJava/blob/master/set/src/set/SetTest.java)  
 >[树](https://github.com/ttorange/CoreJava/tree/master/tereeSet/src/tereeSet)  
->[优先级队列](https://github.com/ttorange/CoreJava/blob/master/priorityQueue/src/priorityQueue/PriorityQueueTest.java)
+>[优先级队列](https://github.com/ttorange/CoreJava/blob/master/priorityQueue/src/priorityQueue/PriorityQueueTest.java)  
+* 多线程
+>[多线程](https://github.com/ttorange/CoreJava/blob/master/bounce/src/bounce/BounceThread.java)   
+>[多线程_join](https://github.com/ttorange/CoreJava/blob/master/src/thread/JoinTest.java)  
+>[线程_yield](https://github.com/ttorange/CoreJava/blob/master/src/thread/ThreadTest.java)   
+>[同步](https://github.com/ttorange/CoreJava/blob/master/src/thread/MyThreadPrinter2.java)  
+
+
