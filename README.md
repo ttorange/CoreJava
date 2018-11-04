@@ -47,6 +47,7 @@
 >[多线程](https://github.com/ttorange/CoreJava/blob/master/bounce/src/bounce/BounceThread.java)   
 >[多线程_join](https://github.com/ttorange/CoreJava/blob/master/src/thread/JoinTest.java)  
 >[线程_yield](https://github.com/ttorange/CoreJava/blob/master/src/thread/ThreadTest.java)   
->[同步](https://github.com/ttorange/CoreJava/blob/master/src/thread/MyThreadPrinter2.java)  
+>[同步原理](https://github.com/ttorange/CoreJava/blob/master/src/thread/MyThreadPrinter2.java)   
+>[同步关键字_synchronized,volatile](https://github.com/ttorange/CoreJava/blob/master/synch/src/synch/Bank.java) 
 
 
