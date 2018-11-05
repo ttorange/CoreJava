@@ -5,6 +5,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
+
 /*Java并发编程：Callable、Future和FutureTask
  * 转载博客：http://www.cnblogs.com/dolphin0520/p/3949310.html
  * 
@@ -25,7 +26,7 @@ FutureTask包装器是一种便利的机制可以将Callable转换成Future和Ru
  */
 public class FutureTest {
 	public static void main(String[] args) {
-        ExecutorService executor = Executors.newCachedThreadPool();
+        ExecutorService executor = Executors.newCachedThreadPool();//必要时创建新线程，空线程保留60s
         Task task = new Task();
         Future<Integer> result = executor.submit(task);
         executor.shutdown();
