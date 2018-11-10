@@ -54,6 +54,8 @@
 >[forkJoin框架](https://github.com/ttorange/CoreJava/blob/master/textFile/src/textFile/TextFileTest.java)  
 * IO流  
 >[文本输入输出](https://github.com/ttorange/CoreJava/blob/master/textFile/src/textFile/TextFileTest.java)  
+>[对象流与序列化](https://github.com/ttorange/CoreJava/blob/master/objectStream/src/objectStream/ObjectStreamTest.java)  
+>[为克隆使用序列化](https://github.com/ttorange/CoreJava/blob/master/serialClone/src/serialClone/SerialCloneTest.java)
 
 
 
